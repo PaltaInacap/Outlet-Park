@@ -1,0 +1,120 @@
+
+body {
+    font-size: larger;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+}
+.nav-img {
+    width: 30px;
+    font-size: larger;
+    transform: translate(0, -5px);
+}
+footer {
+    background: #3e3487;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+li {
+    font-size: medium;
+}
+.footer-norm {
+    font-size: medium;
+    font-weight: 500;
+    padding: 1px;
+}
+.navbar {
+    background-color: #f7f7f7;
+}
+.padding_left_15 {
+    padding-left: 15px;
+}
+.arc-text {
+    font-size: 20px;
+    font-weight: 600;
+}
+section {
+    background-color: #f5ecff;
+    padding-bottom: 30;
+}
+.woman {
+    width: 100%;
+    float: left;
+    background-image: url(../img/woman.jpg);
+    height: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom:300px;
+}
+.man {
+    width: 100%;
+    float: left;
+    background-image: url(../img/man.jpg);
+    height: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+.child {
+    width: 100%;
+    float: left;
+    background-image: url(../img/child.webp);
+    height: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+.house {
+    width: 100%;
+    float: left;
+    background-image: url(../img/house.jpg);
+    height: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+
+.image-text {
+    width: 100%;
+    float: left;
+    font-size: 30px;
+    font-weight:bold ;
+    color: #ffffff;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    text-align: center;
+}
+.arc-cent {
+    padding-top: 200px;
+}
+.img {
+    width: 445px;
+}
+.overlay {
+    position:relative;
+    top: -445px;
+    height: 91%;
+    width: 445px;
+    opacity: 0.4;
+    background-color: #000000;
+}
+.centered {
+    position:relative;
+    transform: translate(0, -690px);
+}
+.square {
+    height: 50px;
+    width: 430px;
+    background-color: #fb7327;
+    border-radius: 10%;
+}
+.square-text {
+    width: 100%;
+    float: left;
+    font-size: 25px;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    
+}
